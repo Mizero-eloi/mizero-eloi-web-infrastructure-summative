@@ -1,0 +1,22 @@
+{
+  "name": "developer-job-search",
+  "version": "1.0.0",
+  "description": "A web application for searching and analyzing developer job opportunities using external APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "job-search",
+    "developer-jobs",
+    "api-integration"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
